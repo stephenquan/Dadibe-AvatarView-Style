@@ -6,9 +6,9 @@
 
 	<ContentPage.Resources>
 		<Style TargetType="toolkit:AvatarView">
-			<Setter Property="StrokeThickness"
+			<Setter Property="BorderWidth"
 							Value="5" />
-			<Setter Property="Stroke"
+			<Setter Property="BorderColor"
 							Value="Red" />	
 		</Style>
 	</ContentPage.Resources>
